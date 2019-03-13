@@ -11,6 +11,12 @@ npm i -S afeiship/ushell-module-openssl --registry=https://registry.npm.taobao.o
 
 
 ~~~
+<!-- OLD: -->
+[feizheng@afei:~]
+$ openssl version
+LibreSSL 2.2.7
+
+<!-- NEW: -->
 $ openssl version
 OpenSSL 1.0.2q  20 Nov 2018
 ~~~

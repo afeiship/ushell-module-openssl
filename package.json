@@ -1,0 +1,24 @@
+{
+  "name": "ushell-module-openssl",
+  "version": "1.0.0",
+  "description": "Fix openssl problem for MacOs.",
+  "main": "index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/ushell-module-openssl.git"
+  },
+  "keywords": [
+    "ushell",
+    "unix",
+    "shell",
+    "ushell-module-openssl"
+  ],
+  "authors": [
+    "feizheng <1290657123@qq.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/ushell-module-openssl/issues"
+  },
+  "homepage": "https://github.com/afeiship/ushell-module-openssl"
+}

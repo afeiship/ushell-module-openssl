@@ -3,10 +3,10 @@
 
 ## install:
 ```shell
-npm i -S afeiship/ushell-module-openssl --registry=https://registry.npm.taobao.org
+npm i -S @feizheng/ushell-module-openssl
 ```
 
-## resources:
+## resources
 - https://yryz.net/post/macosx-brew-install-openssl.html
 
 

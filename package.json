@@ -1,5 +1,5 @@
 {
-  "name": "ushell-module-openssl",
+  "name": "@feizheng/ushell-module-openssl",
   "version": "1.0.0",
   "description": "Fix openssl problem for MacOs.",
   "main": "index.sh",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/afeiship/ushell-module-openssl/issues"
   },
-  "homepage": "https://github.com/afeiship/ushell-module-openssl"
+  "homepage": "https://github.com/afeiship/ushell-module-openssl",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }

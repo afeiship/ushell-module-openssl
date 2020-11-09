@@ -1,5 +1,5 @@
 {
-  "name": "@feizheng/ushell-module-openssl",
+  "name": "@jswork/ushell-module-openssl",
   "version": "1.0.0",
   "description": "Fix openssl problem for MacOs.",
   "main": "index.sh",
@@ -9,9 +9,9 @@
   },
   "keywords": [
     "ushell",
-    "unix",
-    "shell",
-    "ushell-module-openssl"
+    "module",
+    "openssl",
+    "mac"
   ],
   "authors": [
     "feizheng <1290657123@qq.com>"

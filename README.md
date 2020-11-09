@@ -1,9 +1,9 @@
 # ushell-module-openssl
 > Fix openssl problem for MacOs.
 
-## install:
+## installation
 ```shell
-npm i -S @feizheng/ushell-module-openssl
+npm i -S @jswork/ushell-module-openssl
 ```
 
 ## resources

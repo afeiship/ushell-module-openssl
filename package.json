@@ -22,6 +22,13 @@
   },
   "homepage": "https://github.com/afeiship/ushell-module-openssl",
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org/"
+  },
+  "scripts": {
+    "release": "release-it"
+  },
+  "devDependencies": {
+    "release-it": "^15.6.0"
   }
 }
